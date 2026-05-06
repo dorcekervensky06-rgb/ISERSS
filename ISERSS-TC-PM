@@ -1,0 +1,10 @@
+iserss-app/
+│
+├── app/
+│   ├── page.js
+│   ├── layout.js
+│   └── globals.css
+│
+├── package.json
+├── next.config.js
+└── README.md (ou deja genyen li)
